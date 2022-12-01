@@ -12,6 +12,8 @@
 
 ### 四：几何光学
 
+[开始阅读](https://github.com/Reuben-Sun/Note-of-Optics/blob/main/%E5%87%A0%E4%BD%95%E5%85%89%E5%AD%A6.md)
+
 ### 五：反射和折射
 
 ### 六：干涉
