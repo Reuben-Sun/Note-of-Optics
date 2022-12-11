@@ -16,7 +16,11 @@
 
 ### 五：反射和折射
 
+[开始阅读](https://github.com/Reuben-Sun/Note-of-Optics/blob/main/%E5%8F%8D%E5%B0%84%E4%B8%8E%E6%8A%98%E5%B0%84.md)
+
 ### 六：干涉
+
+[开始阅读](https://github.com/Reuben-Sun/Note-of-Optics/blob/main/%E5%B9%B2%E6%B6%89.md)
 
 ### 七：衍射
 
